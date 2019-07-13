@@ -1,0 +1,7 @@
+* SINoBOT
+  This is a discord bot for SINoALICE, currently offering the following functionality
+  - Getting weapon stats and skills
+  - Getting job stats
+  - Getting images for jobs
+
+  All the used data is taken from https://sinoalice.game-db.tw. Anything wrong is most likely due to incompetence on my part.
